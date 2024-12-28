@@ -1,0 +1,30 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+
+# Production build files
+dist/
+
+# Firebase configuration files
+.firebase/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor-specific
+.vscode/
+.idea/
+*.swp
+
+# Test coverage
+coverage/
+
+# Local environment files
+.env
+.env.*
+
